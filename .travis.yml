@@ -1,3 +1,4 @@
 langugage: python
 python: 
 -stable
+script: python ProxyChecker.py
