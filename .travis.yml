@@ -1,3 +1,4 @@
 langugage: python
 python: -stable
+install: pip install --user -r requirements.txt
 script: python ProxyChecker.py
