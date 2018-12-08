@@ -1,3 +1,2 @@
 langugage: python
 python: 3.6
-script: python ProxyChecker.py
